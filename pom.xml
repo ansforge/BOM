@@ -595,7 +595,7 @@
     <xmlunit.version>1.6</xmlunit.version>
     <xmlunit2.version>2.6.3</xmlunit2.version>
     <xom.version>1.3.2</xom.version>
-    <xstream.version>1.4.11.1</xstream.version>
+    <xstream.version>1.4.19</xstream.version>
     <xws-security.version>3.0</xws-security.version>
     <yammer-metrics.version>2.2.0</yammer-metrics.version>
     <yarn.version>1.12.3</yarn.version>
