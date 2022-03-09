@@ -29,10 +29,6 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-      # Test https://github.com/marketplace/actions/pom-xml-dependencies-updater
-      - name: pom.xml Dependencies Updater
-        uses: book000/pomxml-dep-update@v1.0.4
-
       # Update https://github.com/marketplace?type=actions&query=pom+
       - name: Automated Github Action Maven Version Bump
         uses: mickem/gh-action-bump-maven-version@v1.0.0
