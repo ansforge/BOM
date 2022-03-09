@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset>
+  <rule ref="rulesets/java/migrating.xml/IntegerInstantiation">
+    <priority>3</priority>
+  </rule>
+  <rule ref="rulesets/java/optimizations.xml/AvoidInstantiatingObjectsInLoops">
+    <priority>3</priority>
+  </rule>
+  <rule ref="rulesets/java/basic.xml/DoubleCheckedLocking">
+    <priority>3</priority>
+  </rule>
+  <rule ref="rulesets/java/strings.xml/InefficientStringBuffering">
+    <priority>3</priority>
+  </rule>
+  <rule ref="rulesets/java/controversial.xml/OneDeclarationPerLine">
+    <priority>3</priority>
+  </rule>
+</ruleset>
