@@ -534,7 +534,7 @@
     <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
     <spring-web-services.version>${spring-ws.version}</spring-web-services.version>
     <spring-ws.version>3.1.1</spring-ws.version>
-    <spring.version>5.3.9</spring.version>
+    <spring.version>5.3.14</spring.version>
     <springfox-swagger2.version>3.0.0</springfox-swagger2.version>
     <springfox.version>2.9.2</springfox.version>
     <spullara-redis.version>0.7</spullara-redis.version>
