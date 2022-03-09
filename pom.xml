@@ -492,7 +492,7 @@
     <spring-cloud-starter-open-service-broker.version>3.3.0</spring-cloud-starter-open-service-broker.version>
     <spring-cloud-stream-releasetrain.version>Fishtown.SR3</spring-cloud-stream-releasetrain.version>
     <spring-cloud-stream.version>3.1.1</spring-cloud-stream.version>
-    <spring-cloud-task.version>2.1.2.RELEASE</spring-cloud-task.version>
+    <spring-cloud-task.version>2.3.0</spring-cloud-task.version>
     <spring-cloud.version>2020.0.5</spring-cloud.version>
     <spring-data-commons.version>2.5.1</spring-data-commons.version>
     <spring-data-elasticsearch.version>4.2.1</spring-data-elasticsearch.version>
