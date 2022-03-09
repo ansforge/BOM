@@ -559,7 +559,7 @@
     <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
     <tiles-request.version>1.0.6</tiles-request.version>
     <tiles.version>3.0.7</tiles.version>
-    <tomcat.version>9.0.30</tomcat.version>
+    <tomcat.version>9.0.43</tomcat.version>
     <tomcat7Version>7.0.94</tomcat7Version>
     <twilio.version>7.41.1</twilio.version>
     <txw2.version>2.3.2</txw2.version>
