@@ -122,7 +122,7 @@
     <eclipselink.version>2.7.4</eclipselink.version>
     <ehcache.version>2.10.6</ehcache.version>
     <ehcache3.version>3.8.0</ehcache3.version>
-    <elasticsearch.version>7.3.0</elasticsearch.version>
+    <elasticsearch.version>7.14.0</elasticsearch.version>
     <embedded-mongo.version>2.2.0</embedded-mongo.version>
     <embeddedtc.version>2.16</embeddedtc.version>
     <error_prone_annotations.version>2.3.3</error_prone_annotations.version>
