@@ -404,7 +404,7 @@
     <neo4j-cypher-dsl.version>2.0.1</neo4j-cypher-dsl.version>
     <neo4j-ogm.version>3.1.43</neo4j-ogm.version>
     <neo4j-spatial.version>0.13-neo4j-2.0.1</neo4j-spatial.version>
-    <neo4j.version>2.3.2</neo4j.version>
+    <neo4j.version>3.5.0</neo4j.version>
     <netty-tcnative.version>2.0.27.Final</netty-tcnative.version>
     <netty.version>4.1.45.Final</netty.version>
     <nio-multipart-parser.version>1.1.0</nio-multipart-parser.version>
