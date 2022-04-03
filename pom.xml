@@ -178,7 +178,7 @@
     <infinispan.version>9.4.17.Final</infinispan.version>
     <influxdb-java.version>2.15</influxdb-java.version>
     <itext.version>2.1.7</itext.version>
-    <jackson-databind.version>2.10.5.1</jackson-databind.version>
+    <jackson-databind.version>2.12.6.1</jackson-databind.version>
     <jackson-dataformat-csv.version>2.10.1</jackson-dataformat-csv.version>
     <jackson-datatype-hibernate4.version>2.10.1</jackson-datatype-hibernate4.version>
     <jackson-datatype-json-org.version>2.10.1</jackson-datatype-json-org.version>
