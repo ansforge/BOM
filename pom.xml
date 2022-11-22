@@ -10,7 +10,7 @@
   <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.0</version>
+		<version>2.7.1</version>
    </parent>
     <scm>
 	  <developerConnection>${developperConnectionJenkinsfile}</developerConnection>  
@@ -428,7 +428,7 @@
     <poi.version>4.1.0</poi.version>
     <pooled-jms-version>1.0.6</pooled-jms-version>
     <postgis-jdbc.version>2.3.0</postgis-jdbc.version>
-    <postgresql.version>42.3.7</postgresql.version>
+    <postgresql.version>42.3.3</postgresql.version>
     <postgresql18.version>9.4-1208-jdbc42</postgresql18.version>
     <problem-spring-web.version>0.27.0-RC.0</problem-spring-web.version>
     <problem.version>0.23.0</problem.version>

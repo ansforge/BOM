@@ -15,7 +15,7 @@
 * This BOM is certified to work on JDK 8 
 
 
-## Maven howto
+## Maven howto 
 
 ### Prerequisites
 
