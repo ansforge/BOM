@@ -425,7 +425,7 @@
     <openjpa.version>3.1.0</openjpa.version>
     <paho-mqttv3-client.version>1.2.1</paho-mqttv3-client.version>
     <pig.version>0.12.1</pig.version>
-    <poi.version>4.1.0</poi.version>
+    <poi.version>4.1.1</poi.version>
     <pooled-jms-version>1.0.6</pooled-jms-version>
     <postgis-jdbc.version>2.3.0</postgis-jdbc.version>
     <postgresql.version>42.3.7</postgresql.version>
