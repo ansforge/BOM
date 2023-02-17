@@ -470,7 +470,7 @@
     <smack.version>3.2.1</smack.version>
     <smack4.version>4.1.8</smack4.version>
     <sm-ws-bindings.version>1.0.0.7</sm-ws-bindings.version>
-    <snakeyaml.version>1.26</snakeyaml.version>
+    <snakeyaml.version>1.32</snakeyaml.version>
     <snappy.version>1.1.2.6</snappy.version>
     <snippetsDirectory>${project.build.directory}/generated-snippets</snippetsDirectory>
     <soap-api.version>1.4.0</soap-api.version>
