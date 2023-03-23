@@ -487,7 +487,7 @@
     <spring-boot-admin.version>2.4.1</spring-boot-admin.version>
     <spring-boot.version>2.7.0</spring-boot.version>
     <spring-boot-sample-liquibase.version>1.1.4.RELEASE</spring-boot-sample-liquibase.version>
-	<spring-vault-core.version>2.3.1</spring-vault-core.version>
+	<spring-vault-core.version>2.3.3</spring-vault-core.version>
 	<springdoc-openapi-ui.version>1.6.9</springdoc-openapi-ui.version>
     <spring-cloud-connectors.version>2.0.7.RELEASE</spring-cloud-connectors.version>
     <!-- https://github.com/spring-projects/spring-cloud/wiki/Spring-Cloud-Greenwich-Release-Notes -->
