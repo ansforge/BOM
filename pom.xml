@@ -569,7 +569,7 @@
     <typica.version>1.3</typica.version>
     <tyrus.version>1.3.5</tyrus.version>
     <unboundid-ldapsdk.version>4.0.14</unboundid-ldapsdk.version>
-    <undertow.version>2.2.19.Final</undertow.version>
+    <undertow.version>2.2.24.Final</undertow.version>
     <uuid.version>3.2</uuid.version>
     <velocity-tools-view.version>1.4</velocity-tools-view.version>
     <velocity-tools.version>2.0</velocity-tools.version>
