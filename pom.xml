@@ -267,7 +267,7 @@
     <jsch.version>0.1.55</jsch.version>
     <json-patch.version>1.9</json-patch.version>
     <json-path.version>2.4.0</json-path.version>
-    <json.version>20190722</json.version>
+    <json.version>20230227</json.version>
     <jsonassert.version>1.5.0</jsonassert.version>
     <jsonschema2pojo-package>com.sti.types</jsonschema2pojo-package>
 	<json-smart.version>2.4.8</json-smart.version>
