@@ -475,7 +475,7 @@
     <snippetsDirectory>${project.build.directory}/generated-snippets</snippetsDirectory>
     <soap-api.version>1.4.0</soap-api.version>
     <solr.version>8.8.2</solr.version>
-    <spark.version>2.4.1</spark.version>
+    <spark.version>3.4.0</spark.version>
     <splunk.version>1.6.5.0</splunk.version>
     <spock.version>1.0-groovy-2.4</spock.version>
     <spotbugs.version>3.1.12.2</spotbugs.version>
